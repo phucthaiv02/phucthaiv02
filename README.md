@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <br><br>
   👯 I’m looking to collaborate on <em>AI Research</em> 
   <br><br>
-  ⚡ Fun fact: <em>I want to sleep ...</em>
+  ⚡ Fun fact: <em>I want to sleep ... </em> 😴
 </p>
 
 <h2 align="center">📫 How to reach me</h2>
