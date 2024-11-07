@@ -28,9 +28,6 @@ Here are some ideas to get you started:
   <a href="https://www.facebook.com/ptv02"> <img style=""   src=".\assets\facebook-original.svg" height="50px">
   <a href="https://www.linkedin.com/in/phucthaiv02">
   <img style=""   src=".\assets\linkedin-original.svg" height="50px">
-  <a href="https://www.kaggle.com/phucthaiv02">
-  <img style=""   src=".\assets\kaggle-original.svg" height="50px">
-  </a>
   <a href="mailto:phucthaiv02@gmail.com">
   <img style=""   src=".\assets\gmail-original.svg" height="50px">
   </a>
@@ -43,7 +40,8 @@ Here are some ideas to get you started:
     <td align="center">
       <img style="background-color:white;  border: 2px solid white;" src=".\assets\python-original.svg" height="50px"> 
       <img style="background-color: white;  border: 2px solid white;" src=".\assets\cplusplus-original.svg" height="50px"> 
-      <img style="background-color: white;  border: 2px solid white;" src=".\assets\javascript-original.svg" height="50px">  <img style="background-color: white;  border: 2px solid white;" src=".\assets\dart-original.svg" height="50px">
+      <img style="background-color: white;  border: 2px solid white;" src=".\assets\javascript-original.svg" height="50px">  
+      <img style="background-color: white;  border: 2px solid white;" src=".\assets\dart-original.svg" height="50px">
     </td>
   </tr>
   <tr>
