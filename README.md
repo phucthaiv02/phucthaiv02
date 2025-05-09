@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" height=350px/></p>
+<p><img align="right" src=".\assets\animation_500_kxa883sd.gif" height=350px/></p>
 
 <h1 align="center">👋 Hi there, I'm Phuc!</h1>
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <h2 align="center">📫 How to reach me</h2>
 <p align="center">
-  <a href="https://www.facebook.com/ptv02"> <img style=""   src=".\assets\facebook-original.svg" height="50px">
+  <a href="https://www.facebook.com/ptv02"> <img style="" src=".\assets\facebook-original.svg" height="50px">
   <a href="https://www.linkedin.com/in/phucthaiv02">
   <img style=""   src=".\assets\linkedin-original.svg" height="50px">
   <a href="mailto:phucthaiv02@gmail.com">
