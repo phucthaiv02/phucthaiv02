@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <table align="center" border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; border-color: currentColor;">
   <tr>
     <td align="center"><strong>Programming Languages</strong></td>
-    <td align="center">
+    <td align="center" width="500px">
       <img style="background-color:white;  border: 2px solid white;" src=".\assets\python-original.svg" height="50px"> 
       <img style="background-color: white;  border: 2px solid white;" src=".\assets\cplusplus-original.svg" height="50px"> 
       <img style="background-color: white;  border: 2px solid white;" src=".\assets\javascript-original.svg" height="50px">  
@@ -47,23 +47,24 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td align="center"><strong>Frameworks/Libraries</strong></td>
-    <td align="center">
-      <img style="background-color: white;  border: 2px solid white;" src=".\assets\pytorch-original.svg" height="50px">   
-      <img style="background-color: white;  border: 2px solid white;" src=".\assets\tensorflow-original.svg" height="50px"> 
-      <img style="background-color: white;  border: 2px solid white;" src=".\assets\scikitlearn-original.svg" height="50px"> 
-      <img style="background-color: white;  border: 2px solid white;" src=".\assets\flask-original.svg" height="50px">
-      <img style="background-color: white;  border: 2px solid white;" src=".\assets\react-original.svg" height="50px"> 
-      <img style="background-color: white;  border: 2px solid white;" src=".\assets\flutter-original.svg" height="50px">
-    <img style="background-color: white;  border: 2px solid white;" src=".\assets\opencv-original.svg" height="50px"> 
-    <img style="background-color: white;  border: 2px solid white;" src=".\assets\pandas-original.svg" height="50px"> 
-      <img style="background-color: white;  border: 2px solid white;" src=".\assets\numpy-original.svg" height="50px">
-      <img style="background-color: white;  border: 2px solid white;" src=".\assets\matplotlib-original.svg" height="50px">
-    </td>
+    <td align="center" width="300px">
+    <img src="./assets/pytorch-original.svg" height="50px">
+    <img style="background-color: white; border: 2px solid white;" src="./assets/tensorflow-original.svg" height="50px">
+    <img style="background-color: white; border: 2px solid white;" src="./assets/scikitlearn-original.svg" height="50px">
+    <img style="background-color: white; border: 2px solid white;" src="./assets/flask-original.svg" height="50px">
+    <img style="background-color: white; border: 2px solid white;" src="./assets/react-original.svg" height="50px">
+    <img style="background-color: white; border: 2px solid white;" src="./assets/flutter-original.svg" height="50px">
+    <img style="background-color: white; border: 2px solid white;" src="./assets/opencv-original.svg" height="50px">
+    <img style="background-color: white; border: 2px solid white;" src="./assets/pandas-original.svg" height="50px">
+    <img style="background-color: white; border: 2px solid white;" src="./assets/numpy-original.svg" height="50px">
+    <img style="background-color: white; border: 2px solid white;" src="./assets/matplotlib-original.svg" height="50px">
+</td>
   </tr>
   <tr>
     <td align="center"><strong>Databases</strong></td>
     <td align="center">
       <img style="background-color: white;  border: 2px solid white;"   src=".\assets\mongodb-original.svg" height="50px">
+      <img style="background-color: white;  border: 2px solid white;"   src=".\assets\postgresql-icon.svg" height="50px">
     </td>
   </tr>
   <tr>
